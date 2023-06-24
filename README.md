@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arushi Singh</h1>
-<h3 align="center">I know stuff and develop things</h3>
+<h3 align="center">I know stuff and right now I am building and developing tech</h3>
 <img align="center" alt="coding"  width="400" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@eyearushi" target="blank"><img src="https://img.shields.io/twitter/follow/@eyearushi?logo=twitter&style=for-the-badge" alt="@eyearushi" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud based projects**
+- 🔭 I’m currently working on **DevOps based projects**
 
 - 📝 I regularly write articles on [https://hashnode.com/@arushi708](https://hashnode.com/@arushi708)
 
