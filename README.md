@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arushi Singh</h1>
 <h3 align="center">I know stuff and right now I am building and developing tech</h3>
-<img align="center" alt="coding"  width="400" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="center" alt="coding"  width="400" height="300" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgirlcodeit.com%2Fstatic%2Fmedia%2Fgirl.7db7cc52.svg&tbnid=dohgbd40IkzrnM&vet=12ahUKEwjK8IyVj7CDAxWeTGwGHT4YC-4QMyhaegUIARDKAg..i&imgrefurl=https%3A%2F%2Fgirlcodeit.com%2F&docid=CB53p2Jh12vLsM&w=665&h=455&q=girl%20coder&ved=2ahUKEwjK8IyVj7CDAxWeTGwGHT4YC-4QMyhaegUIARDKAg)"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushisingh23&label=Profile%20views&color=0e75b6&style=flat" alt="arushisingh23" /> </p>
